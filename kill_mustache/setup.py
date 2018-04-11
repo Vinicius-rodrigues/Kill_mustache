@@ -23,17 +23,17 @@ setup(
     description='remove to mustache file',
     long_description=long_description,
     url='https://github.com/Vinicius-rodrigues/kill_mustache',
-    download_url='https://github.com/Vinicius-rodrigues/kill_mustache/tarball/' + __version__,
+    download_url='https://github.com/Vinicius-rodrigues/Kill_mustache/archive/'+__version__+'.tar.gz'
     license='BSD',
     classifiers=[
       'Development Status :: 3 - Alpha',
       'Intended Audience :: Developers',
       'Programming Language :: Python :: 3',
     ],
-    keywords='',
+    keywords=['mustache','kill'],
     packages=find_packages(exclude=['docs', 'tests*']),
     include_package_data=True,
-    author='kill_mustache',
+    author='Vinicius Rodrigues Silva',
     install_requires=install_requires,
     dependency_links=dependency_links,
     author_email='viniciusrodrigues93@yahoo.com.br'
