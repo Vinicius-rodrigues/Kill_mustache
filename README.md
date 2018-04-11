@@ -1,17 +1,27 @@
-# Kill_mustache
+kill_mustache
+===============================
 
-kill_mustache e uma script feito em python para remover mustaches indesejáveis de forma rapida e basica 
+version number: 0.0.1
+author: Vinicius Rodrigues
 
-# Ultilizando kill_mustache
+Overview
+--------
 
-Clone o projeto com https ou ssh
+remove to mustache file
 
-```
-https://github.com/Vinicius-rodrigues/Kill_mustache.git
-git@github.com:Vinicius-rodrigues/Kill_mustache.git
-```
+Installation / Usage
+--------------------
 
-execute o kill_mustache
+To install use pip:
 
-```
-python kill_mustache <diretorio> <mustaches>
+    $ pip install kill_mustache
+
+
+Or clone the repo:
+
+    $ git clone https://github.com/Vinicius-rodrigues/kill_mustache.git
+    $ python setup.py install
+    
+Example
+-------
+
