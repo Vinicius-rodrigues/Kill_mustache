@@ -23,7 +23,7 @@ setup(
     description='remove to mustache file',
     long_description=long_description,
     url='https://github.com/Vinicius-rodrigues/kill_mustache',
-    download_url='https://github.com/Vinicius-rodrigues/Kill_mustache/archive/'+__version__+'.tar.gz'
+    download_url='https://github.com/Vinicius-rodrigues/Kill_mustache/archive/'+__version__+'.tar.gz',
     license='BSD',
     classifiers=[
       'Development Status :: 3 - Alpha',
