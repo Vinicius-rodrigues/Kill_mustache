@@ -24,4 +24,5 @@ Or clone the repo:
     
 Example
 -------
+    $ python kill_mustache <directory> <mustache_name_with_the_content_you_want_to_keep>
 
