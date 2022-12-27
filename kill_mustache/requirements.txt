@@ -1,2 +1,2 @@
-setuptools==36.4.0
+setuptools==65.5.1
 pystache==0.5.4
